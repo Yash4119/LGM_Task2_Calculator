@@ -1,4 +1,4 @@
-# React_Js_Calculator
+# React_Js_Calculator <h3>Live Demo : <a href="https://lgm-reactjs-calculator.netlify.app/"></a></h3>
 This is a simple React_Js Calculator which perform basic arithmetic operations and many more features like : add, subtract, multiply, divide support decimal values, reset value functionality, format larger numbers, output resize based on length
 <ol>
   <li>Add</li>
